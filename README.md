@@ -21,4 +21,3 @@ For running pycharm code(Code to application) three files will be needed \
 Please note that the application is made in virtual environment 
 
 
-    
