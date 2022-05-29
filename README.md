@@ -1,6 +1,6 @@
 # Movie_Recommender_System
 
-I have hosted the application. This is the link to the application http://54.196.181.248:8503/ 
+I have hosted the application. This is the link to the application http://54.196.181.248:8503/ \
 Link to the video demo- https://youtu.be/ep3sm32GnVw
 
 I did data preprocessing in jupyter notebook. I also made my recommend function there. Initially I started with two database,
