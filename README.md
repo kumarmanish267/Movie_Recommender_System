@@ -1,6 +1,6 @@
 # Movie_Recommender_System
 
-I have hosted the application. This is the link to the appliction http://54.196.181.248:8503/ 
+I have hosted the application. This is the link to the application http://54.196.181.248:8503/ 
 
 I did data preprocessing in jupyter notebook. I also made my recommend function there. Initially I started with two database,
 one is tmdb_5000_credits.csv and other is tmdb_5000_credits.csv. These both databases were processed in the jupyter notebook. Code to it and the recommmendation algorithm are written in Jupyter_code.ipynb
