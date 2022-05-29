@@ -18,7 +18,7 @@ For running Jupyter notebook code, three files are needed:
 For running pycharm code(Code to application) three files are needed
     1. app.py
     2. similarity.pkl (please access it through the link)
-    3. movie_dict.pkl \n
+    3. movie_dict.pkl \
 Please note that the application is made in virtual environment 
 
 
