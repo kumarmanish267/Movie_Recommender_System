@@ -10,12 +10,12 @@ For making app I used pycharm and the code to app is in app.py. I imported datab
 one is similarity.pkl and other is movie_dict.pkl. The similarity.pkl file was too large to upload here so I am providing link to it. Please consider accesing it 
 through this link https://drive.google.com/file/d/1dxCg1CBr5RCSh6RVwXCBg8LHjcB4wb9S/view?usp=sharing
 
-For running Jupyter notebook code, three files are needed:
+For running Jupyter notebook code, three files are needed: \
     1. Jupyter_code.ipynb \
     2. tmdb_5000_movies.csv \
-    3. tmdb_5000_credits.csv \
+    3. tmdb_5000_credits.csv 
     
-For running pycharm code(Code to application) three files are needed
+For running pycharm code(Code to application) three files are needed \
     1. app.py \
     2. similarity.pkl (please access it through the link) \
     3. movie_dict.pkl \
